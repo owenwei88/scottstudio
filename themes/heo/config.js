@@ -40,10 +40,10 @@ const CONFIG = {
   // 右侧个人资料卡牌欢迎语，点击可自动切换
   HEO_INFOCARD_GREETINGS: [
     'Hello, I am ',
-    '🔍 Helpful & Knowledge-Sharing',
-    '🤝 UX/UI Design Specialist',
+    '🔍 Young Coder',
+    '🤝 Helpful & Knowledge-Sharing',
     '🏃 Action-Driven Executor',
-    '🏠 Smart Home Solutions Expert',
+    '🏠 Young Inventor',
     '🤖️ Tech & Gadgets Enthusiast',
     '🧱 Team Catalyst'
   ],
